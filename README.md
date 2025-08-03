@@ -30,7 +30,7 @@ CommentBox-UI/
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/CommentBox-UI.git
+git clone https://github.com/Krushna-Chandra/Comment-Box.git
 ```
 
 2. Open `index.html` in any web browser.
