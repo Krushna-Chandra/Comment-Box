@@ -56,8 +56,7 @@ git clone https://github.com/Krushna-Chandra/Comment-Box.git
 
 ## 📸 Screenshot / Demo
 
-> *(Add an image or link after deployment, if available)*
-
+> [Visit](https://krushna-chandra.github.io/Comment-Box/)
 
 
 ## 👤 Author
